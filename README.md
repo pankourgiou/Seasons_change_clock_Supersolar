@@ -1,0 +1,2 @@
+Copy paste the code on a notepad and save it as an .html file type , download the .jpg image you see here and set it on the same folder double click the file with the code and voila!! a full working and aesthtically pleasing clock app in Supersolar language about Seasons Dt lyrics Supersolar font
+![Seasons_Change_Supersolar](https://github.com/user-attachments/assets/5836ebc0-61cf-4de3-bc42-d9f58948dbe6)
